@@ -12,7 +12,7 @@
 #### 使用 `iframe` 嵌入页面的代码，高度至少 `240px`，宽度至少 `310px`！
 
 ```
-<iframe src="https://rawcdn.githack.com/TinyJay/donate-page/51aaf216f048b8e6d5ce01443a32be930b91869d/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
+<iframe src="https://rawcdn.githack.com/lovejing0306/DonateScript/9a42a945d7d23d77e25d042a7b198d3a3670a1a2/simple/index.html" style="overflow-x:hidden;overflow-y:hidden; border:0xp none #fff; min-height:240px; width:100%;"  frameborder="0" scrolling="no"></iframe>
 ```
 
 ### License
